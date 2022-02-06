@@ -5,7 +5,7 @@ Install [multipass](https://multipass.run)
 brew install multipass
 ```
 
-Install `hyperkit` or `qemu`, do use virtual box it doesn't allow access from the host network bridge by default.
+Install `hyperkit` or `qemu`, do not use virtual box it doesn't allow access from the host network bridge by default.
 
 For qemu install `libvirt` and set as default driver
 ```
